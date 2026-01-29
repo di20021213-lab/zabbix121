@@ -58,6 +58,6 @@ c<img width="1919" height="1079" alt="Снимок экрана 2026-01-29 00313
 Разместите на нём несколько графиков на ваше усмотрение.
 Требования к результату
  Прикрепите в файл README.md скриншот дашборда с названием «Задание 4»
- <img width="1919" height="1079" alt="4 задание забикс" src="https://github.com/user-attachments/assets/211f503a-98b6-4e5f-a370-6a3b727a46a6" />
+
  <img width="1919" height="1043" alt="image" src="https://github.com/user-attachments/assets/2da77f70-4c9a-4a20-9c72-009f2328c870" />
 
