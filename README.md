@@ -13,8 +13,8 @@
 
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/bfd716ab-d1c5-4fd3-9601-a460638f700b" />
 
-![photo_2026-01-28_22-13-34](https://github.com/user-attachments/assets/4a503c52-5e66-4aef-9545-4b64917c78e5)
-![photo_2026-01-28_22-13-34 (2)](https://github.com/user-attachments/assets/6396149e-7e52-4d70-80af-61711ba27dfa)
+
+
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/cf4cff65-d5c9-46fb-954f-5fbe0263c69f" />
 
 
