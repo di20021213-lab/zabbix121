@@ -18,6 +18,8 @@
 
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/cf4cff65-d5c9-46fb-954f-5fbe0263c69f" />
 
+# РАБОЧИЕ ХОСТЫ
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/59435142-6e6e-4460-911c-fa56c21707ab" />
 
 
  
@@ -33,7 +35,7 @@
 Проверьте что в разделе Latest Data начали появляться данные с добавленных агентов
 Требования к результату
  Результат данного задания сдавайте вместе с заданием 3
-#Задание 3
+# Задание 3
 Привяжите созданный шаблон к двум хостам. Также привяжите к обоим хостам шаблон Linux by Zabbix Agent.
 Процесс выполнения
 Выполняя ДЗ сверяйтесь с процессом отражённым в записи лекции.
@@ -45,7 +47,9 @@
 <img width="1919" height="1079" alt<img width="1918" height="1073" alt="забикс 3 задание" src="https://github.com/user-attachments/assets/4dd1f545-1972-41c1-bf0a-61866b460bff" />
 ="image" src="https://github.com/user-attachments/assets/48c6b939-81cd-4427-ba1c-e9236b563419" />
 <img width="1919" height="1079" alt="Снимок экрана 2026-01-29 003103" src="https://github.com/user-attachments/assets/8d5ccce3-11e3-4369-9f03-f0ce4ed79e03" />
-c<img width="1919" height="1079" alt="Снимок экрана 2026-01-29 003133" src="https://github.com/user-attachments/assets/a8175db2-7ad5-4782-aab0-83a1ca90af5b" />
+# ПРИВЯЗКА к хостам
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/7bea6b60-f571-4e43-a499-96dcc2415ff9" />
 
 
 Задание 4
@@ -60,5 +64,7 @@ c<img width="1919" height="1079" alt="Снимок экрана 2026-01-29 00313
 Требования к результату
  Прикрепите в файл README.md скриншот дашборда с названием «Задание 4»
 
- <img width="1919" height="1043" alt="image" src="https://github.com/user-attachments/assets/2da77f70-4c9a-4a20-9c72-009f2328c870" />
+<img width="1901" height="981" alt="image" src="https://github.com/user-attachments/assets/cc456376-2bbf-4cd2-b7a1-1fb8013478e2" />
+<img width="1912" height="1021" alt="image" src="https://github.com/user-attachments/assets/34977ab7-118f-474c-ab17-95b076cc7792" />
+
 
