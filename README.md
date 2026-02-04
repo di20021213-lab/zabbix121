@@ -68,6 +68,7 @@
  Прикрепите в файл README.md скриншот дашборда с названием «Задание 4»
 
 
-<img width="1912" height="1021" alt="image" src="https://github.com/user-attachments/assets/34977ab7-118f-474c-ab17-95b076cc7792" />
+<img width="1862" height="692" alt="image" src="https://github.com/user-attachments/assets/e55d01d4-89c8-43f9-85d9-696dc17f8959" />
+
 
 
