@@ -13,6 +13,9 @@
  Прикрепите в файл README.md скриншот страницы шаблона с названием «Задание 1»
 
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/bfd716ab-d1c5-4fd3-9601-a460638f700b" />
+№ изменил на задание 1
+<img width="1916" height="1027" alt="image" src="https://github.com/user-attachments/assets/91e9b4ad-eac8-44cc-9028-eef0a93ca476" />
+
 
 
 
@@ -64,8 +67,7 @@
 Требования к результату
  Прикрепите в файл README.md скриншот дашборда с названием «Задание 4»
 
-<img width="1901" height="981" alt="image" src="https://github.com/user-attachments/assets/cc456376-2bbf-4cd2-b7a1-1fb8013478e2" />
-<img width="1873" height="946" alt="image" src="https://github.com/user-attachments/assets/d8368940-01ac-4508-a5f8-4b5e3a91205c" />
 
+<img width="1912" height="1021" alt="image" src="https://github.com/user-attachments/assets/34977ab7-118f-474c-ab17-95b076cc7792" />
 
 
